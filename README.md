@@ -16,7 +16,7 @@
 💻 MERN Stack Developer  
 🌱 Currently learning advanced Full Stack Development  
 🚀 Passionate about building scalable web applications  
-🎯 Goal: Become a professional Software Engineer  
+
 
 ---
 
