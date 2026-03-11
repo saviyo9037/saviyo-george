@@ -5,9 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=saviyo9037&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+
 
 ---
 
