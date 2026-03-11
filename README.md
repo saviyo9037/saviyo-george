@@ -1,50 +1,69 @@
-# Hi 👋 I'm Saviyo George
+<h1 align="center">Hi 👋, I'm Saviyo George</h1>
+<h3 align="center">An enthusiastic MERN Stack Developer from India</h3>
 
-💻 MERN Stack Developer  
-🚀 Passionate about building Full Stack Web Applications  
-📚 Currently learning advanced JavaScript & scalable backend systems  
+🌱 On the path to becoming a Software Engineer
 
 ---
 
-## 🚀 Tech Stack
+# 💫 About Me
+
+🚀 Passionate about Full Stack Development  
+🎯 Currently learning advanced MERN stack  
+🌟 Always exploring new technologies  
+💡 Love building real-world projects  
+
+---
+
+# 🌐 Socials
+
+[LinkedIn](https://linkedin.com/in/yourlinkedin)
+
+---
+
+# 💻 Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-blue?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+HTML5 | CSS3 | JavaScript | React | Redux | TailwindCSS | Bootstrap
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
+Node.js | Express.js | JWT | REST API
 
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+MongoDB | PostgreSQL
+
+### Tools
+Git | GitHub | Postman | Vercel | Render | Figma | Canva
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📂 Projects
+# 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+---
+
+# 🚀 Projects
 
 🔹 MERN Authentication System  
-🔹 Real-Time Chat Application  
-🔹 CRUD Product Management App  
+🔹 Real-Time Chat App  
 🔹 Instagram Clone  
+🔹 E-commerce Backend API  
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 📧 Email: yourmail@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: https://linkedin.com/in/yourlinkedin
