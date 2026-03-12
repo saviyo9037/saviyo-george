@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Saviyo George</h1>
-<h3 align="center">MERN Stack Developer from India</h3>
+<h3 align="center">MERN Stack & PHP Full Stack Developer from India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;PHP+Full+Stack+Developer;React+Node+MongoDB+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
-
-
 
 ---
 
 # 🚀 About Me
 
 💻 MERN Stack Developer  
+💻 PHP Full Stack Developer  
 🌱 Currently learning advanced Full Stack Development  
 🚀 Passionate about building scalable web applications  
-
 
 ---
 
@@ -52,16 +50,19 @@
 ### Backend
 ![Node](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
-### Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 ![Render](https://img.shields.io/badge/Render-purple)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange?logo=apache)
 
 ---
 
@@ -101,7 +102,5 @@ Application for managing patients, doctors and appointments.
 ### 🌐 Portfolio Website
 Personal developer portfolio showcasing projects and skills.
 
----
-
-
-
+### 🗂 PHP Event Management System
+Event management application built with **PHP, MySQL, and XAMPP** with admin panel and event booking.
