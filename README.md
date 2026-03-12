@@ -5,16 +5,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
-
-
 ---
 
 # 🚀 About Me
 
-💻 MERN Stack Developer  
-🌱 Currently learning advanced Full Stack Development  
-🚀 Passionate about building scalable web applications  
-
+💻 MERN Stack Developer
+🌱 Currently learning advanced Full Stack Development
+🚀 Passionate about building scalable web applications
 
 ---
 
@@ -41,6 +38,7 @@
 # 💻 Tech Stack
 
 ### Frontend
+
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
@@ -50,13 +48,16 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
 
 ### Backend
+
 ![Node](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 
 ### Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
@@ -90,18 +91,19 @@
 # 🚀 Featured Projects
 
 ### 🧑‍💼 CRM System
+
 Customer relationship management system with authentication and dashboard.
 
 ### 🛒 Rabbit E-commerce
+
 Full stack MERN e-commerce application with product listing, cart and order system.
 
 ### 🏥 Hospital Management System
+
 Application for managing patients, doctors and appointments.
 
 ### 🌐 Portfolio Website
+
 Personal developer portfolio showcasing projects and skills.
 
 ---
-
-
-
