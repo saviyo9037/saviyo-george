@@ -5,13 +5,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+Node+MongoDB+Developer;Always+Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
+
+
 ---
 
 # 🚀 About Me
 
-💻 MERN Stack Developer
-🌱 Currently learning advanced Full Stack Development
-🚀 Passionate about building scalable web applications
+💻 MERN Stack Developer  
+🌱 Currently learning advanced Full Stack Development  
+🚀 Passionate about building scalable web applications  
+
 
 ---
 
@@ -35,15 +38,30 @@
 
 ---
 
-# 💻 Technologies Used In My Repositories (Auto)
+# 💻 Tech Stack
 
-<p align="center">
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![Redux](https://img.shields.io/badge/Redux-purple?logo=redux)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviyo9037&layout=compact&theme=tokyonight"/>
+### Backend
+![Node](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
 
-</p>
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 
-This section automatically analyzes all repositories and shows the technologies used.
+### Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+![Render](https://img.shields.io/badge/Render-purple)
 
 ---
 
@@ -59,10 +77,12 @@ This section automatically analyzes all repositories and shows the technologies 
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saviyo9037&theme=tokyo-night"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saviyo9037&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -70,21 +90,18 @@ This section automatically analyzes all repositories and shows the technologies 
 # 🚀 Featured Projects
 
 ### 🧑‍💼 CRM System
-
 Customer relationship management system with authentication and dashboard.
 
 ### 🛒 Rabbit E-commerce
-
 Full stack MERN e-commerce application with product listing, cart and order system.
 
 ### 🏥 Hospital Management System
-
 Application for managing patients, doctors and appointments.
 
 ### 🌐 Portfolio Website
-
 Personal developer portfolio showcasing projects and skills.
 
 ---
 
-⭐️ From [Saviyo George](https://github.com/saviyo9037)
+
+
